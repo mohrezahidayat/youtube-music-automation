@@ -20,7 +20,7 @@ Follow instruction:
 - If want to generate report add command with space
   > -Dcucumber.plugin="html:target/cucumber-html-report.html"
 
-If preparation set up correct then you will see a console output
+If preparation set up correct then you will see report in folder target
 <details><summary>Click to expand</summary>
 <img width="1000" alt="Screenshot 2022-11-14 at 21 21 30" src="https://user-images.githubusercontent.com/30076130/202901973-678339f2-9460-41f3-b3c5-ee910c15b816.png">
 </details>
